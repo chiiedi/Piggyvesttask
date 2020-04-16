@@ -1,0 +1,61 @@
+body {
+  box-sizing: border-box
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+h5 {
+    color: lightblack;
+    text-align: center;
+  }
+
+p {
+  color: black;
+}
+
+.signup-form {
+  border: 1px dotted black;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+form {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+.textbox {
+  width: 100%;
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid #144499;
+  box-sizing: border-box
+
+}
+
+.select-textbox {
+  height: 55px;
+  width: 100%;
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid #144499;
+  box-sizing: border-box
+}
+
+.submit {
+  width: 100%;
+  padding: 15px;
+  background: #144499;
+  border: 1px solid #144499;
+  color: #fff;
+  border-radius: 5px;
+  font-size: 18px;
+  text-align: center;
+}
